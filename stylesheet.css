@@ -1,0 +1,30 @@
+#view {
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+
+.page-container {
+    display: flex;
+    height: 100%;
+}
+
+.sphere-control {
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 7px;
+    padding: 7px;
+}
+
+#add {
+    margin-left: 20px;
+}
+
+.control-element {
+    margin-bottom: 5px;
+}
+
+.controls-input {
+    width: 50px;
+}
