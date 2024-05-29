@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>559 Project</title>
+    <link rel="stylesheet" href="stylesheet.css">
+</head>
+<body>
+    <h1>Welcome to my CS559 Optional Project</h1>
+    <div class="page-container">
+        <div class="rendering">
+            <canvas id = "view", width = "500", height = "500"></canvas>
+            <br>
+            <button id="render">Render</button>
+
+            <br>
+            <label>Samples: </label>
+            <input type="range" id="sample" min="1" max="500" step="1" value="100">
+            <label id="sample-label"></label>
+        </div>
+        <div class="editing" id="editing">
+            <button id="add">Add Object</button>
+        </div>
+    </div>
+
+    <script src="raytracer.js" type="module" defer></script>
+</body>
+</html>
