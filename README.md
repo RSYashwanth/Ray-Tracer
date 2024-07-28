@@ -53,4 +53,8 @@ Ray tracing is a rendering technique that simulates the way light interacts with
 6. Click the `Render` button and view the ray traced output (open console first for rendering progess)
 
 ## Examples
+1. ![Ray tracer screenshot 1](images/a.png)
+2. ![Ray tracer screenshot 1](images/b.png)
+3. ![Ray tracer screenshot 1](images/c.png)
+4. ![Ray tracer screenshot 1](images/d.png)
    
